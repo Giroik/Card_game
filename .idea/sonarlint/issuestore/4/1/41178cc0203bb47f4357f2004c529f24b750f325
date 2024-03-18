@@ -1,0 +1,24 @@
+
+d
+java:S1643%"Use a StringBuilder instead.(‡ãõ²ÿÿÿÿÿ8„ÒÛ™å1J$8c3ddb70-ce4c-4e54-b2db-dbbfcbc4a07a
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ÎÉìˆøÿÿÿÿ8ÒÛ™å1J$2bfa9b8c-d37c-493d-bcf9-eb4c53a63a0c
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹‡¤÷8ÒÛ™å1J$5a133e38-18f8-4609-be93-60d77f0e0301
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ã±­¢8ÒÛ™å1J$92082a21-edd8-4aad-840e-3b45c53a6811
+r	java:S106'"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8äÿú™å1J$7bc4af64-253e-4299-a542-6ad007f344e3
+
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(†¥¦Ïüÿÿÿÿ8’ÒÛ™å1J$e655cbb7-5e46-4938-a2a7-5423572056b2
+ˆ
+java:S1124A"EReorder the modifiers to comply with the Java Language Specification.(«çÏ¿8”ÒÛ™å1J$6368dbc5-9930-49cc-b8e5-154e21f2cd25
+€
+java:S1155F">Use isEmpty() to check whether the collection is empty or not.(úËä8•ÒÛ™å1J$9f0057fc-c888-47b3-9434-3645fef94af6
+„
+java:S1612K"AReplace this lambda with method reference 'PlayingCard::getSuit'.(’çğ±8–ÒÛ™å1J$532f523e-6850-4b19-bac2-e1a4d0fc0bf9
+‰
+java:S1612L"AReplace this lambda with method reference 'PlayingCard::getSuit'.(Áß«óúÿÿÿÿ8—ÒÛ™å1J$7b3551e3-940f-4365-93f1-02d256f6fb56
+‰
+java:S1612M"AReplace this lambda with method reference 'PlayingCard::getSuit'.(ò‰®ìùÿÿÿÿ8—ÒÛ™å1J$1d5afa9c-7cd8-47c7-8a70-25c65574fab2
+„
+java:S1612N"AReplace this lambda with method reference 'PlayingCard::getSuit'.(üØîÉ8˜ÒÛ™å1J$72dd496e-6c48-4d56-9c61-fe0f78223ef9

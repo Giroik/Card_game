@@ -1,0 +1,13 @@
+
+w
+java:S37404"/Provide the parametrized type for this generic.(ÌÔ™şÿÿÿÿ8°¦›å1J$845797f6-d811-4362-83ac-ef7521efe748
+­
+java:S1319&"eThe type of "cards" should be an interface such as "List" rather than the implementation "ArrayList".(şí¹öıÿÿÿÿ8±¦›å1J$28b12cb1-2e65-4272-950c-5e5b50f7f80b
+[
+java:S1700"Rename field "hand"(½‘¢Îşÿÿÿÿ8²¦›å1J$fe81ab1a-01ba-45d0-b1fb-992291c2ffdc
+o
+java:S1602+",Remove useless curly braces around statement(®Ë‚–8º¦›å1J$86d631d2-b200-4785-95b8-e008f01d14f3
+y
+java:S1612+"6Replace this lambda with method reference 'hand::add'.(®Ë‚–8»¦›å1J$8d18951e-e2f4-4456-a6d2-60d2724c78d8
+r
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8…¨ª›å1J$4c76a730-c473-4f9a-b311-9c0cbb2cbfd8

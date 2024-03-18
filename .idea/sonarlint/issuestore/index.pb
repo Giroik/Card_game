@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+K
+src/main/java/src/Main.java,8\b\8b17e20a726f6a2385deda2f99fe1e26cca26809
+R
+"src/main/java/src/PlayingCard.java,7\1\71b6c1a8d901b2c890bf08b6a9ba8930502d695a
+R
+"src/main/java/src/DeckOfCards.java,f\3\f3fc2417996d982584957fad4d5de2b57ae78026
+V
+&src/test/java/src/DeckOfCardsTest.java,5\9\59c46b99caaf5475c1d229f1439aab173ffd8094
+P
+ src/main/java/src/HandCheck.java,4\1\41178cc0203bb47f4357f2004c529f24b750f325
+K
+src/main/java/src/Hand.java,4\e\4e71e096331b93d633a9fb670c2312db0161eee3
+V
+&src/test/java/src/PlayingCardTest.java,0\1\01615617d39fb2fc2a0b5c44f93663f1f623242c
+T
+$src/test/java/src/HandCheckTest.java,f\d\fd4e993c2251cbc65595b1860c2733172751f03f
